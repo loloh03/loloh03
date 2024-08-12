@@ -2,8 +2,6 @@
  
  Meu nome é Eloah Braga de Jesus
 
- **Estoy casadissama com o negão** 💜
-
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
@@ -13,4 +11,4 @@
 
 @eloh_br
 
-![](https://static1.purepeople.com.br/articles/1/38/02/71/@/4368689-web-se-choca-ao-descobrir-que-michael-b-580x0-3.jpg)
+![](https://s03.video.glbimg.com/x216/3540010.jpg)
